@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdul Azeem Shaik</h1>
 <h3 align="center">An engineering student majoring in Electronics and Communication at BITS Pilani, Hyderabad Campus.</h3>
 
-- 🔭 I’m currently working on an [E commerce Application ( Grocery App )](https://github.com/tk4vr/oop_anidev)
+- 🔭 Looking forward to internship opportunities particularly in the field of software engineering in the United States.
 
 - 📫 How to reach me **sabdulazeem01@gmail.com** || **f20191234@hyderabad.bits-pilani.ac.in**
 
