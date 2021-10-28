@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdul Azeem Shaik</h1>
 <h3 align="center">An engineering student majoring in Electronics and Communication at BITS Pilani, Hyderabad Campus.</h3>
 
-- 🔭 Looking forward to internship opportunities particularly in the field of software engineering in the United States.
+- 🔭 Looking forward to internship opportunities particularly in the field of software engineering .
 
 - 📫 How to reach me **sabdulazeem01@gmail.com** || **f20191234@hyderabad.bits-pilani.ac.in**
 
