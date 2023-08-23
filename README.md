@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdul Azeem Shaik</h1>
-<h3 align="center">An engineering enthusiast working as a SWE at Shardeum with major in Electronics and Communication from BITS Pilani.</h3>
+<h3 align="center">An engineering enthusiast working as a SWE at Shardeum with major in Electronics and Communication Engineering from BITS Pilani.</h3>
 
 - 🔭 Looking forward to opportunities.
 
