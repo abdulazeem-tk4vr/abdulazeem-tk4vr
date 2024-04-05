@@ -19,7 +19,6 @@ A 21-year-old adventurer who's journeyed from California to Doha and Hyderabad. 
   <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/soliditylang/soliditylang-icon.svg" alt="solidity" width="40" height="40"/>
 </p>
 
 ---
