@@ -6,7 +6,7 @@
 
 A 21-year-old adventurer who's journeyed from California to Doha and Hyderabad. Football fanatic, FIFA enthusiast, and currently navigating the tech landscape as a Software Engineer at Shardeum. With a Bachelor's in Electronics and Communication Engineering from BITS Pilani, I'm always on the lookout for exciting opportunities and challenges.
 
-- 🔭 Currently exploring new opportunities and projects.
+- 🔭 Currently dedicating myself to Shardeum, a blockchain built on the distributed ledger technology, Shardus. 
 - 📫 Reach out to me at [sabdulazeem01@gmail.com](mailto:sabdulazeem01@gmail.com) or [f20191234@hyderabad.bits-pilani.ac.in](mailto:f20191234@hyderabad.bits-pilani.ac.in)
 
 ### Languages and Tools:
