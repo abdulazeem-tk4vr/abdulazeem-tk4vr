@@ -1,9 +1,15 @@
-Hi there! 👋 I'm Abdul Azeem Shaik
+
+
+---
+
+# Hi there! 👋 I'm Abdul Azeem Shaik
+
 A 21-year-old adventurer who's journeyed from California to Doha and Hyderabad. Football fanatic, FIFA enthusiast, and currently navigating the tech landscape as a Software Engineer at Shardeum. With a Bachelor's in Electronics and Communication Engineering from BITS Pilani, I'm always on the lookout for exciting opportunities and challenges.
 
-🔭 Currently exploring new opportunities and projects.
-📫 Reach out to me at sabdulazeem01@gmail.com or f20191234@hyderabad.bits-pilani.ac.in
-Languages and Tools:
+- 🔭 Currently exploring new opportunities and projects.
+- 📫 Reach out to me at [sabdulazeem01@gmail.com](mailto:sabdulazeem01@gmail.com) or [f20191234@hyderabad.bits-pilani.ac.in](mailto:f20191234@hyderabad.bits-pilani.ac.in)
+
+### Languages and Tools:
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
@@ -15,7 +21,10 @@ Languages and Tools:
   <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/soliditylang/soliditylang-icon.svg" alt="solidity" width="40" height="40"/>
 </p>
-About Me:
+
+---
+
+### About Me:
 I'm a tech enthusiast with a passion for exploring cutting-edge technologies like TypeScript, Rust, and Solidity. My current focus lies in blockchain development, where I'm leveraging my skills to build decentralized applications and smart contracts. Whether it's tinkering with code or strategizing the next FIFA match, I'm always up for a challenge!
 
 Feel free to connect and let's collaborate on exciting projects together! 🚀
