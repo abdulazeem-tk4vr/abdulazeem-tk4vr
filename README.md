@@ -41,57 +41,13 @@ I welcome any opportunity to connect with others who share an interest in these 
 
 ---
 
-## 💼 Experience
-
-### Shardeum (Layer-1 Blockchain)
-**Software Engineer** (Remote) — Rust, TypeScript, Node.js  
-*August 2022 - Present*
-
-- **Designed and developed** a scalable distributed monitoring system capable of 10,000 requests per second.
-- **Accelerated cryptographic library performance** by 14x (10 ms to 700 µs) by porting it from Node.js to Rust.
-- **Optimized networking layer performance**, reducing load from redundant calls by 34% (82 ms to 54 ms).
-- **Increased TPS by 60%** in the RPC server by adding a data distribution protocol for local data streaming.
-- **Strengthened lost node detection protocol** for automatically removing and reviving missing active nodes.
-- **Boosted performance** of internal networking protocol with custom binary serialized communication.
-- **Improved cross-shard data storage efficiency** with an LRU cache for immutable smart contract data.
-- **Enhanced blockchain performance** by introducing adjustable account load distribution across shards.
-- **Developed EVM-compatible** and specialized Shardeum RPC methods per the latest Ethereum proposals.
-- **Integrated the Graph Protocol** with Shardeum blockchain DApps for active user engagement in GraphQL.
-- **Achieved nearly 100% coverage** in Unit Tests for release candidates deployed onto the network.
-
-**Additional Technologies:** Solidity, Remix, Jest, PostgreSQL, SQLite, Vue.js, Nuxt.js
-
-### BITS Hyderabad Telangana
-**Researcher** — Kotlin, Java, Android Studio, Figma, Firebase  
-*August 2021 – December 2022*
-
-- **Developed and field-tested** a native Android application used by 40+ rural farmers that forecasts crop prices and showcases historical sales data and agricultural statistics.
-- **Publication:** Published in the ACM Journal on Computing and Sustainable Societies (ACM-JCSS) as "AI-based Market Intelligence Systems for Farmer Collectives."
-
-### Chups Inc, California
-**IT Intern** — WordPress, Python, TypeScript  
-*June 2022 - July 2022*
-
-- **Developed web applications** using WordPress and performed data analysis of social media content using Python.
-- **Built workflows** with APIs on Postman, increasing user interaction on the website by 28% and reducing load time by 44%.
-
-### MAZO Solutions, Virginia
-**Web Development Intern** — Java, Spring Boot, JavaScript, MySQL, React  
-*May 2021 - July 2021*
-
-- **Developed a web application** to notify clients about their schedules and manage overbooking.
-
----
-
 ## 🎓 Education
 
 ### Georgia Institute of Technology (Georgia Tech), USA
 **M.S. in Computer Science**  
 
-
 ### Birla Institute of Technology And Science, Pilani (BITS Pilani), India
 **B.E. in Electronics and Communication**  
-
 
 ---
 
