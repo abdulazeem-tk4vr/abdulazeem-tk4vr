@@ -1,30 +1,116 @@
+# Hi, I'm Abdul Azeem Shaik! 👋
 
-
----
-
-# Hi there! 👋 I'm Abdul Azeem Shaik
-
-A 21-year-old adventurer who's journeyed from California to Doha and Hyderabad. Football fanatic, FIFA enthusiast, and a contributor to the Web3 space as a Software Engineer at Shardeum. With a Bachelor's in Electronics and Communication Engineering from BITS Pilani, I'm always on the lookout for exciting opportunities and challenges.
-
-- 🔭 Currently dedicating myself to Shardeum, a blockchain built on the distributed ledger technology, Shardus. 
-- 📫 Reach out to me at [sabdulazeem01@gmail.com](mailto:sabdulazeem01@gmail.com) or [f20191234@hyderabad.bits-pilani.ac.in](mailto:f20191234@hyderabad.bits-pilani.ac.in)
-
-### Languages and Tools:
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
-</p>
+I'm a **Software Engineer** specializing in **Distributed Systems** at [Shardeum](https://shardeum.org/), a Layer-1 Blockchain company. My expertise lies in building scalable and efficient systems using **Rust**, **TypeScript**, and **Node.js**. I'm passionate about blockchain technology, decentralization, and scalable infrastructure, and I love connecting with like-minded individuals to discuss these topics.
 
 ---
 
-### About Me:
-I'm a tech enthusiast with a passion for exploring cutting-edge technologies like TypeScript, Rust, and Solidity. My current focus lies in blockchain development, where I'm leveraging my skills to build decentralized applications and smart contracts. Whether it's tinkering with code or strategizing the next FIFA match, I'm always up for a challenge!
+## 🚀 Skills
 
-Feel free to connect and let's collaborate on exciting projects together! 🚀
+### Programming Languages
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
+![C/C++](https://img.shields.io/badge/-C/C++-00599C?style=flat-square&logo=c)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+
+### Technologies & Frameworks
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio) - Utilized for developing robust and scalable Android applications, leveraging modern design patterns and performance optimization techniques.
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux)
+
+### Blockchain & Distributed Systems
+- **Layer-1 Blockchain Development**
+- **Peer-to-Peer (p2p) Communication**
+- **Low-level Networking Layers**
+- **Blockchain Protocols**
+- **Ethereum Virtual Machine (EVM) Compatibility**
+
+---
+
+## 💼 Experience
+
+### Shardeum (Layer-1 Blockchain)
+**Software Engineer** (Remote) — Rust, TypeScript, Node.js  
+*August 2022 - Present*
+
+- **Designed and developed** a scalable distributed monitoring system capable of 10,000 requests per second.
+- **Accelerated cryptographic library performance** by 14x (10 ms to 700 µs) by porting it from Node.js to Rust.
+- **Optimized networking layer performance**, reducing load from redundant calls by 34% (82 ms to 54 ms).
+- **Increased TPS by 60%** in the RPC server by adding a data distribution protocol for local data streaming.
+- **Strengthened lost node detection protocol** for automatically removing and reviving missing active nodes.
+- **Boosted performance** of internal networking protocol with custom binary serialized communication.
+- **Improved cross-shard data storage efficiency** with an LRU cache for immutable smart contract data.
+- **Enhanced blockchain performance** by introducing adjustable account load distribution across shards.
+- **Developed EVM-compatible** and specialized Shardeum RPC methods per the latest Ethereum proposals.
+- **Integrated the Graph Protocol** with Shardeum blockchain DApps for active user engagement in GraphQL.
+- **Achieved nearly 100% coverage** in Unit Tests for release candidates deployed onto the network.
+
+**Additional Technologies:** Solidity, Remix, Jest, PostgreSQL, SQLite, Vue.js, Nuxt.js
+
+### BITS Hyderabad Telangana
+**Researcher** — Kotlin, Java, Android Studio, Figma, Firebase  
+*August 2021 – December 2022*
+
+- **Developed and field-tested** a native Android application used by 40+ rural farmers that forecasts crop prices and showcases historical sales data and agricultural statistics.
+- **Publication:** Published in the ACM Journal on Computing and Sustainable Societies (ACM-JCSS) as "AI-based Market Intelligence Systems for Farmer Collectives."
+
+### Chups Inc, California
+**IT Intern** — WordPress, Python, TypeScript  
+*June 2022 - July 2022*
+
+- **Developed web applications** using WordPress and performed data analysis of social media content using Python.
+- **Built workflows** with APIs on Postman, increasing user interaction on the website by 28% and reducing load time by 44%.
+
+### MAZO Solutions, Virginia
+**Web Development Intern** — Java, Spring Boot, JavaScript, MySQL, React  
+*May 2021 - July 2021*
+
+- **Developed a web application** to notify clients about their schedules and manage overbooking.
+
+---
+
+## 🎓 Education
+
+### Georgia Institute of Technology (Georgia Tech), USA
+**M.S. in Computer Science**  
+*Expected Graduation: 2025*
+
+### Birla Institute of Technology And Science, Pilani (BITS Pilani), India
+**B.E. in Electronics and Communication**  
+*2019 - 2023*
+
+---
+
+## 📚 Projects
+
+### [PetBook](https://github.com/abdulazeem-tk4vr/PetBook)
+- **Description:** Mobile application that serves as a marketplace for pets with real-time news updates, tracking ability, and animated visuals of animals.
+- **Technologies:** Java, Android Studio, Firebase, Figma
+
+### [IPC Solver Scheduler](https://github.com/abdulazeem-tk4vr/IPC_Solver_Scheduler)
+- **Description:** Multi-threaded shared memory-based mathematical solver that schedules and compares the execution of processes using round-robin and Preemptive Priority scheduling.
+- **Technologies:** C/C++, pthreads, Linux
+
+### [PingPong AI Reinforced](https://github.com/abdulazeem-tk4vr/PingPong_Reinforced)
+- **Description:** Trained a Deep reinforcement learning algorithm agent to optimize gameplay and achieved higher average scores than a human player by updating the agent to DDQN.
+- **Technologies:** Python, Open AI Gym
+
+---
+
+## 📫 Let's Connect!
+
+- **Email:** [sabdulazeem01@gmail.com](mailto:sabdulazeem01@gmail.com)
+- **LinkedIn:** [abdulazeem-shaik](https://www.linkedin.com/in/abdulazeem-shaik/)
+- **GitHub:** [abdulazeem-tk4vr](https://github.com/abdulazeem-tk4vr)
+- **GitLab:** [sabdulazeem01](https://gitlab.com/sabdulazeem01)
+
+Feel free to reach out if you'd like to chat about blockchain, decentralization, or scalable infrastructure. I'm always open to new opportunities and collaborations!
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=abdulazeem-tk4vr&color=brightgreen)
