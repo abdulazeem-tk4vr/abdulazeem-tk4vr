@@ -2,26 +2,35 @@
 
 I'm a **Software Engineer** specializing in **Distributed Systems** at [Shardeum](https://shardeum.org/), a Layer-1 Blockchain company. My expertise lies in building scalable and efficient systems using **Rust**, **TypeScript**, and **Node.js**. I'm passionate about blockchain technology, decentralization, and scalable infrastructure, and I love connecting with like-minded individuals to discuss these topics.
 
+With hands-on experience in Layer 0 and Layer 1 Blockchain smart contract platforms and dynamic state sharding, I am keenly interested in exploring the cutting-edge developments in the blockchain space, including:
+
+- **ZK Proof-Based Systems**: Delving into zero-knowledge proofs for enhanced privacy and security.
+- **Layer 2 Blockchains**: Understanding rollups and other scalability solutions to improve blockchain efficiency.
+- **Decentralized Finance (DeFi) Innovations**: Exploring new financial models and protocols reshaping traditional finance.
+- **Interoperability Solutions**: Investigating cross-chain communication to create a more interconnected blockchain ecosystem.
+
+I welcome any opportunity to connect with others who share an interest in these areas, whether it's for collaboration, discussion, or innovation in blockchain technology.
+
 ---
 
 ## 🚀 Skills
 
 ### Programming Languages
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
-![C/C++](https://img.shields.io/badge/-C/C++-00599C?style=flat-square&logo=c)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C/C++](https://img.shields.io/badge/-C%2FC%2B%2B-00599C?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ### Technologies & Frameworks
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio) - Utilized for developing robust and scalable Android applications, leveraging modern design patterns and performance optimization techniques.
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white) - Utilized for developing robust and scalable Android applications, leveraging modern design patterns and performance optimization techniques.
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ### Blockchain & Distributed Systems
 - **Layer-1 Blockchain Development**
@@ -78,27 +87,11 @@ I'm a **Software Engineer** specializing in **Distributed Systems** at [Shardeum
 
 ### Georgia Institute of Technology (Georgia Tech), USA
 **M.S. in Computer Science**  
-*Expected Graduation: 2025*
+
 
 ### Birla Institute of Technology And Science, Pilani (BITS Pilani), India
 **B.E. in Electronics and Communication**  
-*2019 - 2023*
 
----
-
-## 📚 Projects
-
-### [PetBook](https://github.com/abdulazeem-tk4vr/PetBook)
-- **Description:** Mobile application that serves as a marketplace for pets with real-time news updates, tracking ability, and animated visuals of animals.
-- **Technologies:** Java, Android Studio, Firebase, Figma
-
-### [IPC Solver Scheduler](https://github.com/abdulazeem-tk4vr/IPC_Solver_Scheduler)
-- **Description:** Multi-threaded shared memory-based mathematical solver that schedules and compares the execution of processes using round-robin and Preemptive Priority scheduling.
-- **Technologies:** C/C++, pthreads, Linux
-
-### [PingPong AI Reinforced](https://github.com/abdulazeem-tk4vr/PingPong_Reinforced)
-- **Description:** Trained a Deep reinforcement learning algorithm agent to optimize gameplay and achieved higher average scores than a human player by updating the agent to DDQN.
-- **Technologies:** Python, Open AI Gym
 
 ---
 
