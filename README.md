@@ -1,6 +1,6 @@
 # Hi, I'm Abdul Azeem Shaik! 👋
 
-**Resume** - [Resume](https://drive.google.com/file/d/1xw9WReTfl2XNVFip4J1P_PGC33dBlzol/view)
+**Resume** - [Resume](https://drive.google.com/file/d/1K-5G7Q7l1Quan89coe9DU7oLzdqfwziA/view?usp=sharing)
 
 I'm a **Software Engineer** specializing in **Distributed Systems** at [Shardeum](https://shardeum.org/), a Layer-1 Blockchain company. My expertise lies in building scalable and efficient systems using **Rust**, **TypeScript**, and **Node.js**. I'm passionate about blockchain technology, decentralization, and scalable infrastructure, and I love connecting with like-minded individuals to discuss these topics.
 
