@@ -1,63 +1,91 @@
-<h1 align="center">Abdul Azeem Shaik</h1>
+<h1 align="center">Hey, I'm Abdul Azeem 👋</h1>
 
 <p align="center">
-  Senior Software Engineer &nbsp;·&nbsp; AI Security Researcher &nbsp;·&nbsp; Georgia Tech M.S. CS (AI)
+  <img src="https://komarev.com/ghpvc/?username=abdulazeem-tk4vr&color=brightgreen&style=flat-square&label=Profile+Views" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdulazeem-tk4vr&color=brightgreen&style=flat-square" />
-  <img src="https://img.shields.io/badge/Shardeum-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI%20Security-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/ACM%20Published-teal?style=flat-square" />
-  <img src="https://img.shields.io/badge/Bug%20Bounty-orange?style=flat-square" />
+  <b>Senior Software Engineer · AI Security Researcher · Georgia Tech M.S. CS (AI)</b>
 </p>
 
-<br>
+I build high-performance distributed systems and research what breaks when autonomous agents start making security decisions together. Spent the last few years hardening consensus on a live sharded blockchain in Rust — now applying those instincts to multi-agent LLM threat models.
 
-> Obsessed with systems that are fast, correct, and hard to break — from sharding blockchain consensus in Rust to researching what happens when adversarial agents make security decisions together.
-
----
-
-### About
-
-|  |  |
-|---|---|
-| 🔐 **AI Security Researcher** | Consensus security in multi-agent LLM systems · BFT quorum design · adversarial hardening |
-| ⚙️ **Senior SWE @ Shardeum** | Distributed systems · sharded EVM blockchain · Rust & TypeScript at scale |
-| 🎓 **Georgia Tech M.S. CS (AI)** | B.E. ECE · BITS Pilani |
-| 🐛 **Bug Bounty** | Critical vulns in Shardeum & Shardus — consensus safety, DDoS, MITM, replay attacks |
+- 🔐 Researching **consensus security in multi-agent LLM systems** for CyberSec environments
+- 🦀 **Senior Software Engineer @ Shardeum** — Rust, TypeScript, Node.js at scale
+- 🎓 **M.S. Computer Science (AI) @ Georgia Tech** | B.E. ECE @ BITS Pilani
+- 🐛 Found and reported **critical vulnerabilities** in Shardeum & Shardus bug bounty programs
+- 📜 Published in **ACM JCSS** via Google AI for Social Good grant
+- ⚡ Fun fact: I've made consensus algorithms both faster and harder to lie to
 
 ---
 
-### Tech Stack
+## Tech Stack
 
-**Production**
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-**Research & Mobile**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-**ML / Data**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-**Infra & Tooling**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Protobuf](https://img.shields.io/badge/Protocol%20Buffers-FF6F00?style=for-the-badge&logo=google&logoColor=white)
+<table>
+  <tr>
+    <th align="left">Category</th>
+    <th align="left">Technologies</th>
+  </tr>
+  <tr>
+    <td><b>🦀 Production</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>📱 Research & Mobile</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🤖 ML / Data</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+      <img src="https://img.shields.io/badge/XGBoost-189AB4?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>📦 Infra & Tooling</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+      <img src="https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=google&logoColor=white" />
+      <img src="https://img.shields.io/badge/Protocol%20Buffers-FF6F00?style=flat-square&logo=google&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🔗 Blockchain</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
+      <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/EVM-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🔒 Security</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+      <img src="https://img.shields.io/badge/Static%20Analysis-4E9F3D?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/PCAP%20Analysis-CE1F1F?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bug%20Bounty-FF6B35?style=flat-square&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### Performance Wins
+## Performance Wins
+
+> Numbers from production work on a live sharded EVM blockchain node.
 
 | What | Result |
 |---|---|
@@ -69,35 +97,60 @@
 
 ---
 
-### Research
+## Research
 
-**Consensus Security in Multi-Agent LLM Systems**
-`ACSAC 2026 (target)` · In progress
-> BFT quorum design, adversarial hardening, and prompt injection resistance for autonomous agents making security-critical decisions in CyberSec environments.
-
-**AI-based Market Intelligence for Farmer Collectives**
-`ACM JCSS` · Published · Google AI for Social Good grant
-> Production Android deployment with integrated ML forecasting for rural agricultural markets. Field-validated with real market data.
-
-**Security on Low-Cost Android Devices**
-`HCI & Security Lab · BITS Pilani`
-> Static and dynamic analysis, PCAP-based network traffic analysis via Wireshark, malware and bloatware identification across budget and mid-range devices.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔐 Consensus Security in Multi-Agent LLM Systems</h3>
+      <p>BFT quorum design, adversarial hardening, and prompt injection resistance for autonomous agents operating in high-stakes CyberSec environments.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Target-ACSAC%202026-blueviolet?style=flat-square" />
+        <img src="https://img.shields.io/badge/Track-IEEE-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Status-In%20Progress-orange?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌾 AI-based Market Intelligence for Farmer Collectives</h3>
+      <p>Production Android app with integrated ML forecasting deployed for rural agricultural markets. Field-validated with real market data.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Published-ACM%20JCSS-brightgreen?style=flat-square" />
+        <img src="https://img.shields.io/badge/Funded-Google%20AI%20for%20Social%20Good-4285F4?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📱 Security on Low-Cost Android Devices</h3>
+      <p>Static and dynamic analysis, PCAP-based network traffic analysis via Wireshark, malware and bloatware identification across device tiers.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Lab-HCI%20%26%20Security-lightgrey?style=flat-square" />
+        <img src="https://img.shields.io/badge/Institution-BITS%20Pilani-red?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/abdulazeem-tk4vr?tab=repositories">Explore More →</a></h3>
+      <p>Check out all my repos — distributed systems experiments, blockchain tooling, security research, and Android projects.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### Open Source
+## Open Source
 
-**Farcaster / Snapchain** — Timestamp & block-based event filtering APIs; data serialisation optimisations for distributed systems *(Rust, RocksDB, gRPC)*
-
-**Cosmos EVM** — Height-keyed caching (block, block-results, fee-params) eliminating redundant RPC calls and improving throughput *(Go)*
+| Project | Contribution | Stack |
+|---|---|---|
+| **[Farcaster / Snapchain](https://github.com/farcasterxyz/snapchain)** | Timestamp & block-based event filtering APIs; data serialisation optimisations | Rust · RocksDB · gRPC |
+| **[Cosmos EVM](https://github.com/cosmos/evm)** | Height-keyed caching (block, block-results, fee-params) eliminating redundant RPC calls | Go · JSON-RPC |
 
 ---
 
-### Connect
+## Let's Connect
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabdulazeem01@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulazeem-tk4vr)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdulazeem-tk4vr)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sabdulazeem01@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulazeem-tk4vr)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/abdulazeem-tk4vr)
 
 <br>
 
